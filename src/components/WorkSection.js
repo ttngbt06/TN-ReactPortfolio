@@ -31,7 +31,7 @@ const WorkSection = () => {
     return (
         <section className={`${styles.section} ${styles['work-section']}`} id="work">
             <div className={styles['section-title']}>
-                <h2>Work</h2>
+                <h2>Portfolio</h2>
             </div>
             <div className={styles['section-content']}>
                 <div className={styles.gallery}>
